@@ -2,7 +2,28 @@
 
 CodeX Nebula is a next-generation, gamified programming learning platform and competitive multiplayer coding arena built natively for iOS. Designed with a sleek cyberpunk aesthetic, the app makes mastering algorithms and programming concepts engaging, social, and intelligent.
 
+CodeX Nebula is the result of a team effort during our Intra-Institutional Internship.
+
 ---
+
+## 📺 Demo Video
+
+[![CodeX Nebula Demo Video](https://img.youtube.com/vi/ABlMvuh-gqw/0.jpg)](https://youtu.be/ABlMvuh-gqw)
+
+*Click the image above to watch the project demo video on YouTube.*
+
+---
+
+## 🎨 Low-Fidelity Design
+
+Here is the low-fidelity wireframe set designed for the application, mapping out the user flows from onboarding to battle arenas and user profiles:
+
+![CodeX Nebula Low-Fidelity Wireframes](assets/lo-fi_design.png)
+
+*(You can access the PDF version at [assets/lo-fi_design.pdf](assets/lo-fi_design.pdf))*
+
+---
+
 
 ## 🚀 Key Features
 
